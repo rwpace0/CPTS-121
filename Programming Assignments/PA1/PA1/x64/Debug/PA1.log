@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Reidw\OneDrive\Desktop\121\PA1\PA1\main.c(70,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Reidw\OneDrive\Desktop\121\PA1\PA1\main.c(195,10): warning C4476: 'printf' : unknown type field character ')' in format specifier
+  PA1.vcxproj -> C:\Users\Reidw\OneDrive\Desktop\121\PA1\x64\Debug\PA1.exe

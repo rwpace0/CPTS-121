@@ -1,0 +1,15 @@
+﻿  main.c
+  yahtzee.c
+C:\Users\Reidw\OneDrive\Desktop\121\PA5\PA5\main.c(17,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Reidw\OneDrive\Desktop\121\PA5\PA5\main.c(58,26): warning C4047: 'function': 'int *' differs in levels of indirection from 'int [2][13]'
+C:\Users\Reidw\OneDrive\Desktop\121\PA5\PA5\main.c(58,26): warning C4024: 'option_used': different types for formal and actual parameter 1
+C:\Users\Reidw\OneDrive\Desktop\121\PA5\PA5\main.c(59,27): warning C4047: 'function': 'int *' differs in levels of indirection from 'int [2][13]'
+C:\Users\Reidw\OneDrive\Desktop\121\PA5\PA5\main.c(59,27): warning C4024: 'display_combo_menu': different types for formal and actual parameter 1
+C:\Users\Reidw\OneDrive\Desktop\121\PA5\PA5\main.c(95,24): warning C4047: 'function': 'int *' differs in levels of indirection from 'int [2][13]'
+C:\Users\Reidw\OneDrive\Desktop\121\PA5\PA5\main.c(95,24): warning C4024: 'display_combo_menu': different types for formal and actual parameter 1
+C:\Users\Reidw\OneDrive\Desktop\121\PA5\PA5\main.c(98,24): warning C4047: 'function': 'int *' differs in levels of indirection from 'int [2][13]'
+C:\Users\Reidw\OneDrive\Desktop\121\PA5\PA5\main.c(98,24): warning C4024: 'option_used': different types for formal and actual parameter 1
+C:\Users\Reidw\OneDrive\Desktop\121\PA5\PA5\main.c(99,25): warning C4047: 'function': 'int *' differs in levels of indirection from 'int [2][13]'
+C:\Users\Reidw\OneDrive\Desktop\121\PA5\PA5\main.c(99,25): warning C4024: 'display_combo_menu': different types for formal and actual parameter 1
+  Generating Code...
+  PA5.vcxproj -> C:\Users\Reidw\OneDrive\Desktop\121\PA5\x64\Debug\PA5.exe

@@ -1,0 +1,4 @@
+﻿  interview.c
+C:\Users\Reidw\OneDrive\Desktop\121\PA8\PA8\interview.c(127,6): warning C4013: 'is_prime' undefined; assuming extern returning int
+C:\Users\Reidw\OneDrive\Desktop\121\PA8\PA8\interview.c(181,35): warning C4028: formal parameter 1 different from declaration
+  PA8.vcxproj -> C:\Users\Reidw\OneDrive\Desktop\121\PA8\x64\Debug\PA8.exe

@@ -1,0 +1,5 @@
+﻿  equations.c
+  main.c
+  Generating Code...
+C:\Users\Reidw\OneDrive\Desktop\121\PA3\PA3\main.c(48,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  PA3.vcxproj -> C:\Users\Reidw\OneDrive\Desktop\121\PA3\x64\Debug\PA3.exe

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Reidw\\OneDrive\\Desktop\\121\\PA6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{827C23B3-C800-4029-B1F7-98498120D4ED}|PA6\\PA6.vcxproj|C:\\Users\\Reidw\\OneDrive\\Desktop\\121\\PA6\\PA6\\battleship.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{827C23B3-C800-4029-B1F7-98498120D4ED}|PA6\\PA6.vcxproj|solutionrelative:PA6\\battleship.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827C23B3-C800-4029-B1F7-98498120D4ED}|PA6\\PA6.vcxproj|C:\\Users\\Reidw\\OneDrive\\Desktop\\121\\PA6\\PA6\\battleship.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{827C23B3-C800-4029-B1F7-98498120D4ED}|PA6\\PA6.vcxproj|solutionrelative:PA6\\battleship.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827C23B3-C800-4029-B1F7-98498120D4ED}|PA6\\PA6.vcxproj|C:\\Users\\Reidw\\OneDrive\\Desktop\\121\\PA6\\PA6\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{827C23B3-C800-4029-B1F7-98498120D4ED}|PA6\\PA6.vcxproj|solutionrelative:PA6\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Reidw\\OneDrive\\Desktop\\121\\PA6\\PA6\\battleship.log||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PA6\\battleship.log||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "battleship.log",
+              "DocumentMoniker": "C:\\Users\\Reidw\\OneDrive\\Desktop\\121\\PA6\\PA6\\battleship.log",
+              "RelativeDocumentMoniker": "PA6\\battleship.log",
+              "ToolTip": "C:\\Users\\Reidw\\OneDrive\\Desktop\\121\\PA6\\PA6\\battleship.log",
+              "RelativeToolTip": "PA6\\battleship.log",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-03T22:02:27.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "battleship.h",
+              "DocumentMoniker": "C:\\Users\\Reidw\\OneDrive\\Desktop\\121\\PA6\\PA6\\battleship.h",
+              "RelativeDocumentMoniker": "PA6\\battleship.h",
+              "ToolTip": "C:\\Users\\Reidw\\OneDrive\\Desktop\\121\\PA6\\PA6\\battleship.h",
+              "RelativeToolTip": "PA6\\battleship.h",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-24T21:07:08.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "battleship.c",
+              "DocumentMoniker": "C:\\Users\\Reidw\\OneDrive\\Desktop\\121\\PA6\\PA6\\battleship.c",
+              "RelativeDocumentMoniker": "PA6\\battleship.c",
+              "ToolTip": "C:\\Users\\Reidw\\OneDrive\\Desktop\\121\\PA6\\PA6\\battleship.c",
+              "RelativeToolTip": "PA6\\battleship.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-24T21:06:54.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\Reidw\\OneDrive\\Desktop\\121\\PA6\\PA6\\main.c",
+              "RelativeDocumentMoniker": "PA6\\main.c",
+              "ToolTip": "C:\\Users\\Reidw\\OneDrive\\Desktop\\121\\PA6\\PA6\\main.c",
+              "RelativeToolTip": "PA6\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-24T21:06:45.435Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

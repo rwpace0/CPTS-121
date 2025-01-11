@@ -1,0 +1,7 @@
+﻿  equations.c
+  main.c
+  Generating Code...
+C:\Users\Reidw\OneDrive\Desktop\121\PA2\PA2\main.c(148,10): warning C4476: 'printf' : unknown type field character ')' in format specifier
+C:\Users\Reidw\OneDrive\Desktop\121\PA2\PA2\main.c(54,28): warning C4244: 'initializing': conversion from 'double' to 'char', possible loss of data
+C:\Users\Reidw\OneDrive\Desktop\121\PA2\PA2\main.c(54,51): warning C4244: 'initializing': conversion from 'double' to 'char', possible loss of data
+  PA2.vcxproj -> C:\Users\Reidw\OneDrive\Desktop\121\PA2\x64\Debug\PA2.exe
